@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Para compilar e usar no seu vscode, mude a variavel java.configuration.runtimes em .vscode/settings.json para a pasta do seu JDK
 
 ## Folder Structure
 
